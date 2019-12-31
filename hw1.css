@@ -1,0 +1,42 @@
+
+
+header{
+	background-color: #b2b2b2;
+}
+
+
+
+
+
+h1, h2{
+text-transform: uppercase;	
+}
+
+h1{
+	color: #ffffff;
+	text-align: center;
+}
+
+h2{
+	color: #000080;
+}
+
+a:-webkit-any-link {
+    color: #000000;
+    background: #c5c5c5;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+.left{
+	display: none;
+}
+
+.right{
+	background: #7f7f7f
+}
+
+
+
+
